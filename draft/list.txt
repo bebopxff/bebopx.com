@@ -1,0 +1,37 @@
+Articles 
+
+bernielxy.com 
+
+# Elixir
+Elixir release with Distillery
+https://medium.com/swlh/https-medium-com-brunoripa-elixir-release-with-distillery-101-e14d28a9ab32
+https://www.richardtaylor.dev/articles/github-workflow-elixir-releases
+https://medium.com/blackode/writing-the-command-line-application-in-elixir-78a8d1b1850
+
+GetVScode:
+
+https://dev.to/jreina/intro-to-the-zip-function
+
+https://www.sitepoint.com/using-es-modules/
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules
+
+https://blog.softwaremill.com/it-depends-the-art-of-dependency-management-in-javascript-f1f9c3cde3f7
+https://dev.to/riversun/how-to-run-webpack-dev-server-on-express-5ei9
+
+NodeJS series
+https://blog.risingstack.com/node-hero-tutorial-getting-started-with-node-js/
+https://blog.risingstack.com/nodejs-at-scale-npm-best-practices/
+
+https://kamilmysliwiec.com/typescript-2-1-introduction-async-await
+
+WebGPU
+  https://developers.google.com/web/updates/2019/08/get-started-with-gpu-compute-on-the-web
+  https://doc.babylonjs.com/extensions/webgpu#what-could-go-wrong
+
+Bebopx / Weixin:
+
+https://medium.com/sequoia-capital/coronavirus-the-black-swan-of-2020-7c72bdeb9753 红杉资本
+
+2008 红杉资本 好日子到头了
+https://www.sequoiacap.com/article/rip-good-times
+

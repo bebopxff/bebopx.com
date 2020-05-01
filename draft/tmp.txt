@@ -1,0 +1,1077 @@
+https://fanyi.caiyunapp.com/#/
+
+市场
+https://dev.to/garrett/ 
+https://garrettmickley.com/
+
+设计
+
+开发
+https://www.erinmcg.com/
+
+代理
+  levelsio 产品
+  xxx flutter
+  xxx react
+  xxx dapp
+  xxx ycombinator blog
+  xxx indiehacker
+
+
+
+theme
+  vscode
+  vim
+  emacs
+  hexo
+  hugo
+  gatsby
+  jeklly
+
+百思不得其解
+  GCP 为什么能用？
+  itchat 还能用？
+
+
+以我国人民的智慧和韧性，跟美国换个地盘现在早殖民火星了。
+https://weibo.com/2149981442/IbgKLE9bq
+
+对敌人的仁慈，就是对人民的残忍
+
+Great minds think alike ;-)
+
+
+95 后的语境分裂
+  https://mp.weixin.qq.com/s/8Eingz2cK0-DXzMUIHXvsA 95 后的封闭文化圈子：为什么你不理解现在的年轻人？
+
+国内国外令人失望的新闻
+新疆教培中心
+
+
+众泰汽车欠款数亿元，比克电池上诉法院要求冻结其 4000 多万元财产
+21 年老牌培训机构一朝爆雷，韦博英语卷款跑路的消息让新老学员猝不及防
+
+
+陨石猎人赶来 “追星”
+
+
+https://hackernoon.com/how-to-monetize-a-medium-article-b4c1aeb7fda
+
+的第 x 篇翻译
+
+https://nextviewventures.com/blog/peace-of-mind-businesses/
+
+SerenityOS: From zero to HTML in a year
+http://www.serenityos.org/happy/1st/
+Using Vim as C/C++ IDE
+http://www.alexeyshmalko.com/2014/using-vim-as-c-cpp-ide/
+Implement a toy video encoder in browser
+https://epiphany.pub/post?refId=4c411b8a0b5207739f97e787d2af77ec9e1a1a47f117eb946ba1fcf51865d5f6
+
+CG 身材模特
+https://www.instagram.com/ewelina_olczak/
+https://www.listal.com/ewelina-olczak
+
+
+
+
+https://matters.news
+一个爱台湾的大陆人
+  知乎言论精选
+
+
+
+程序员实用网站
+https://blog.csdn.net/m0_38106923/article/details/100130354
+GitHub 开源的 10 个超棒后台管理面板 https://blog.csdn.net/m0_38106923/article/details/101050788
+
+
+
+纯采集站
+  域名？
+  https://www.uzhan5.com/post/6451
+  http://www.wangzhuantt.com/wangluozhuanqian/18.html
+  https://lusongsong.com/reed/8166.html 保留评论框、但禁止评论。所有评论由自己的网站程序生成。
+
+  https://www.batmanit.com/p/378.html 采集站的生存之道，盘点常见的采集工具与软件！
+    小众领域 原文链接 部分采集主体原创 高级洗稿
+
+  https://www.shangmeidd.com/23954
+
+  小说网站 牧神记 从牧神记看各网站体验
+    中外名著和言情小说 中小学生和家长群
+    干掉路边摊
+    不止网络小说
+  网站交易网 https://www.itbulu.com/web-sale-form.html
+    https://www.huzhan.com/
+    www.yuzhua.com
+    www.zbj.com
+    www.a5.net
+
+  视频采集网站的聚合网站
+  https://zhizhizhi.com/ APP 国外版什么值得买
+
+https://www.uzhan5.com/post/6451
+
+weixin100k.com
+
+https://sg.godaddy.com/zh
+  magicporter.com
+  the-craft-of-self-teaching.com
+  zhaoxi.moe
+
+记录每天看过的文章，每月更新
+https://github.com/oraoto/daily GitHubDaily 谷歌关键字占领
+
+
+赚钱网
+http://www.qifuxian.com/
+不要每天寻找什么项目赚钱，而是要思考同行在做什么，挖掘更深的小众领域，你才会觉得赚钱并不难。大众化的项目都是靠勤奋，靠死磕才能赚钱，而不是靠你动动嘴花点钱就可以做到的。猪都能赚钱的项目是轮不上你的，别意淫了。 https://zhuanlan.zhihu.com/p/39051387
+
+
+爬虫代理 https://blog.csdn.net/nghuyong/article/details/80132383
+
+微博 bot
+ post weibo
+ backup weibo
+
+微博数据的抓取
+https://blog.csdn.net/nghuyong/article/details/85160577
+https://blog.csdn.net/nghuyong/article/details/81251948
+
+https://github.com/HubQin/sinaCrawlerV
+http://itindex.net/detail/31819-%E5%88%A9%E7%94%A8-%E6%B7%98%E5%AE%9D-api 在微博发返利链接
+
+https://github.com/dataabc/weiboSpider
+https://github.com/dataabc/weibo-crawler
+
+世界经济盘点
+  收集公开数据，仅为参考使用
+  Will xxx Collapse
+  The Coming Collapse of China
+
+bilibili
+  辣么美
+    印度 东南亚美女 日韩欧美美女 video
+
+
+---
+title: "产品 | 面向远程工作者的应用 YAC"
+date: 2019-10-12T10:01:32+08:00
+draft: false
+---
+
+[查看原文](https://www.producthunt.com/stories/the-400-000-tweet)
+
+
+
+Last week we crossed $15 million in annual recurring revenue (ARR) for ConvertKit. My original dream was to get to $600,000 in ARR, so I’m pretty thrilled! Over the last six years I’ve learned and written about quite a few lessons, but it’s always fun to reminisce on the highlights, that oddly enough mostly come from the hardest times.
+
+1. FOCUS IS EVERYTHING
+It’s fine to start something on the side, but if you want to turn it something real it needs to move to the center of your focus. Years ago I decided to go all in on ConvertKit, moving it from a side project to my only project.
+
+Without that decision ConvertKit wouldn’t be here today.
+
+Anytime someone brags about how many businesses they run I cringe. I’d far rather take one thing and do it really well. I’ll leave the serial entrepreneurship for the scattered, the wannabes, or those who are truly far more talented than I am.
+
+A friend told me the other day that he was surprised I still only did ConvertKit. At this point we have an incredible team, available capital, and the leverage of an audience. Why not start something else and run it in parallel?
+
+Because I know myself.
+
+Focus is where I thrive. Focus is where I get results. Focus is everything.
+
+2. CHOOSE A NICHE
+Choosing a niche is the easiest advice to give and the hardest advice to take. When you don’t have traction, it feels like choosing a niche will exclude the few people who are coming in the door. In reality when we chose “email marketing for professional bloggers” everything changed.
+
+Messaging became clear, the product roadmap was trimmed, and the prospect lists practically wrote itself.
+
+Without that change—without excluding everyone who didn’t fit into the blogger bucket—it would have been incredibly hard to get off the ground.
+
+We eventually expanded to “email marketing for creators,” which now includes podcasters, actors, YouTubers, authors, artists, musicians, and so many more. Even with growing into that larger audience we are still so much more focused than our competitors who target all small-businesses.
+
+3. USE SALES TO KICKSTART WORD-OF-MOUTH
+Word-of-mouth is the best way to grow a company, but you need traction for the referrals to start. That’s where direct sales come in. By choosing a niche, listing out your prospects, and getting in touch directly you no longer have to wait for them to come to you.
+
+Each conversation—even though most end in rejection—will teach you so much. At first it’s one customer. Then five. Then ten.
+
+Immediately you’ll notice something crucial: the customers you recruit are higher quality than the ones who just walk in the door. Why would you leave the future of your product up to just anyone who stumbles across what you create?
+
+Instead go out and sell to the customers you want. Then ask them for referrals. Finally, when the word-of-mouth referrals kick in, they will be to the right people.
+
+创业 | 十五个价值一千五百万美元的创业经验 (1/5)
+
+文 / Nathan Barry
+译 / Bebopx
+
+上周，ConvertKit 的年度经常性收入 (ARR) 超过 1500 万美元。 我最初的梦想是获得 60 万美元的 ARR，现在的结果让我非常激动！ 在过去的六年里，我学习记录了相当多经验教训，回忆那些精彩的部分是很有趣的，最意外的是，这些经验大多来自最艰难的时刻。
+
+
+1. 专注就是一切
+
+以业余项目做起是很好的，但如果你想把它变成真正的事业，就需要集中精力在项目上。 几年前，我决定全力投入 ConvertKit，将它从一个业余项目转变为我唯一的项目。
+
+
+没有这个决定，ConvertKit 今天就不会成为这样的公司。
+
+
+当有人吹嘘他们经营了多少生意时，我常常恭维他们的个人能力。 我宁愿把一件事做好。 我想把连续创业故事留给那些事业心分散的、想成为企业家的人，或者那些真正比我有才华得多的人。
+
+
+有一天，一个朋友告诉我，他很惊讶我仍然只专心经营 ConvertKit。 在那个时候，我们已经有一个优秀的团队，充足的资本，在客户中颇具影响力。 为什么不启动一些其他的东西，并行地经营它们呢？
+
+
+因为我了解我自己。
+
+
+专注使我的事业发展兴旺，专注使我得到现在的结果，专注就是一切。
+
+
+2. 选择合适的领域
+
+选择一个利基市场是最容易给出的建议，也是最难接受的建议。 当你没有影响力的时候，感觉就像是选择一个利基市场会排斥走部分顾客。 事实上，当我们选择 “为专业博客作者打造的电子邮件营销工具” 时，一切都改变了。
+
+
+信息变得清晰，产品路线图被削减，前景慢慢出现。
+
+
+如果没有这种改变ーー不把所有不适合博客的人排除在外ーー就很难起步。
+
+
+我们最终扩展到 “为创作者打造的电子邮件营销平台” ，现在包括播客、演员、 视频作者、作家、艺术家、音乐家等等。 即使我们已经拥有更大的受众群体，我们仍然比我们的竞争对手更加专注，因为我们的目标是所有的小型企业。
+
+
+3. 利用销售来提升口碑
+
+口碑传播是公司成长的最佳途径，但是你需要吸引力才能开始推光。 这就是需要进行直接销售的时候。 通过选择一个利基市场，列出你的潜在客户，直接与他们联系，你不再需要等待他们来找你。
+
+
+尽管大多数谈话都以被拒绝告终，但每次谈话都会教会你很多东西。 一开始只有一个顾客。 然后是五个。 然后是是个。
+
+
+你马上就会注意到一些重要的事情: 你招揽来的顾客比自己来的顾客质量更高。 你为什么要把你产品的未来交给那些无意间发现你作品的人呢？
+
+
+取而代之的是走出去，把产品卖给你想要的客户，请求他们帮你推广。 最后，当口碑介绍起作用时，他们就会找到合适的新顾客。
+
+提前准备好文章
+图片库
+  startup
+  product
+
+Go Iris
+Vue Nuxt Login Go API
+
+GitHub + CircleCI + static-site-holder
+shell loop -> text/markdown ->
+https://hashbase.io/pricing
+
+Elixir 临时小文件存储 api paid
+ $1 5G
+ paid + key secret
+
+more quick than find
+  cache results
+  GUI manaager / cleaner
+
+  https://www.jam-software.com/ultrasearch/
+  https://www.raymond.cc/blog/instantly-list-all-files-and-folders-with-everything-search-engine/
+
+  https://www.raymond.cc/blog/ 带数字对比的博客
+
+api 转发平台管理
+
+分布式刷多抓鱼
+
+集合搜索
+  go goquery
+
+https://www.chromebeat.com/
+  Web Server for Chrome
+https://hterm.org/ WebSSH
+https://www.browserstack.com/
+
+基于 Elixir 在线转换小工具
+  asciitable.com
+
+iex(38)> to_charlist <<194,127,0>>
+** (UnicodeConversionError) invalid encoding starting at <<194, 127, 0>>
+    (elixir) lib/string.ex:2154: String.to_charlist/1
+iex(38)> to_charlist <<194,128,0>>
+[128, 0]
+
+
+vim java
+  https://wangqy.cc/2019/06/25/vim%E4%B8%8B%E5%86%99java/
+vim snippet
+
+vim swift
+
+vim gui manager / javafx
+vim
+  - 外观 美化 主题
+  - 开发功能
+    语法高亮
+    语法缩进
+    语法提示 文档
+    代码补全
+    格式化
+    lint
+    ctag
+    extra tools : git ci docker
+  - 其他附件（放歌）
+    笔记 https://github.com/tamlok/vnote
+
+All about vim on Meduim
+https://medium.com/@rohmanhakim/how-to-set-up-code-completion-for-vim-in-macos-9766dd459385
+
+Getting Productive with Vim in a Week without Hating It
+https://dev.to/nickjj/getting-productive-with-vim-in-a-week-without-hating-it-40cf
+
+vim + lsp
+https://www.kieranbamforth.me/post/vim-lsp
+
+vim swift
+https://forums.fast.ai/t/swift-development-environment-for-vim-users/40420/7
+
+http://gopherhub.org/2019/06/28/thinkvim/ thinkvim
+http://gopherhub.org/
+
+coc.vim
+https://news.ycombinator.com/item?id=19529557
+
+https://www.cnblogs.com/cthon/p/10647367.html
+
+Docker-Alpine-Vim or Dir
+
+Make your vim Awesome in 5 minutes!!!!!!!!
+https://www.youtube.com/watch?v=dImHsJ0iPng
+
+Mastering the Vim Language
+https://www.youtube.com/watch?v=wlR5gYd6um0
+
+A guide to setting up Vim for JavaScript development
+https://freshman.tech/vim-javascript/
+
+https://learnku.com/articles/24924 优秀
+vim git  https://www.javazhiyin.com/24793.html
+https://codefor.life/fuck-you-complete-me/
+http://ddrv.cn/a/185139
+http://oenhan.com/vim8-c-ide-plugin-vimrc
+https://thoughtbot.com/blog/writing-vim-syntax-plugins
+  http://www.yuanguohuo.com/2018/11/11/go-vim-dev-environment/
+http://thoreauz.com/2019/04/21/ideavim/
+
+fake a surge website
+
+
+7. FUNDING IS OPTIONAL
+Right about now we should be raising a $25 million series A. Or at least that’s what our peers are doing. Instead we haven’t raised a single dime of outside capital. I put in $5,000 to kick things off, then another $50,000 when I doubled down on ConvertKit.
+Getting rejected by venture capitalists is one of the best things that’s ever happened to me.
+We built ConvertKit our way, at our pace, and with our values. Every line of code is funded by the creators we serve. I wouldn’t have it any other way.
+你不一定需要找投资
+现在我们应该能获得 2500 万美元投资。至少和我们体量相近的公司在进行这样的融资。但我们还没有拿过外部资本的钱。在启动项目时我投入了 5000 美元，在决定全力开发 converkit 后我又投入了 50000 美元。
+被风投拒绝是我经历过的最好的事。
+这意味着我们可以按自己的方式，节奏，价值观打造 convertkit。每一行代码都是为我们服务的创作者开发的。只有不引入外部资本才能做到这一点。
+8. IT’S POSSIBLE WITH A SMALLER TEAM THAN MOST PEOPLE THINK
+Today at ConvertKit we have 38 amazing team members. At $15 million ARR that is nearly $400,000 per team member! A much higher ratio than any of our peers. At this stage 75 employees would be normal.
+Instead of hiring as quickly as possible to solve every pain, we are deliberate about working on the right things. The constraint requires us to say no, not spread ourselves thin, and only do the highest leverage work.
+It also means that we can invest in each team member more and carefully craft the culture we want, rather than simply focus on reaching headcount goals.
+There are always tradeoffs, maybe we could move faster, build more, or support customers better. So we are still striving to find the right balance between team size, efficiency, and total output.
+小团队也能做出产品
+我们 convertkit 现在有 38 位优秀的团队成员。aar 1500 万美元意味着平均每人创造了 40 万美元，比大多数同类公司都高。在这一阶段正常应该有 75 名成员。
+我们决定而不是雇用更多员工解决问题。人数限制迫使我们学会拒绝，只做优先级最高的事。
+这也意味着我们可以为每个成员投入更多精力，构建我们的文化，而不是为了达到人数目标而招人。
+凡事总有利弊，也许多雇人可以让我们发展更快，完成更多功能，更好地服务客户。因此我们还在努力寻找团队大小，效率和产出的平衡。
+9. CULTURE IS EVERYTHING—AND IT’S NOT WHAT YOU THINK
+We have so many weird habits as a team at ConvertKit: talking about someone in the third person as if they’re not there, long walks in pairs where only one person is allowed to talk, starting meetings by asking, “red, yellow, or green?” and diving directly into the hard conversations.
+That’s because to us culture isn’t bean bag chairs and free lunch, but instead an environment where conflict is kind and direct, expectations are clear, and trust is most important.
+Our version of culture has turned ConvertKit into a place that we all want to come to work.
+公司文化是一切，并不像你想的那样
+在 converkit 我们有很多奇怪的习惯，比如假装某个成员不在场地谈论他，成对地边走边谈但只允许一个人说话，通过提问开始会议，红黄绿？然后直接讨论会议最难的部分。
+我们的文化不是豆袋椅或者免费午餐，而是允许善意直接地冲突，预期是清晰的，信任是最重要的。
+我们版本的文化将 ConvertKit 变成一个我们都想在其中工作的地方。
+10. SHARE THE PROFITS
+There are two important factors for running ConvertKit as a financially efficient company:
+*   Transparent financials. Every dollar spent is visible to the entire company through our open books.
+*   Profit sharing. We share more than 50% of the profit in the company with the entire team.
+The result is that everyone is incentivized to spend money efficiently.
+We once asked the team: “would you rather go to San Diego or Costa Rica for the next team retreat?”
+Everyone said Costa Rica.
+So we did the research and found that Costa Rica would cost about 50% more because of higher housing costs and additional travel logistics. With the complete picture we asked the team again.
+This time San Diego won by a landslide.
+That attitude carries over to everyone when they use their company credit card. It’s not just the company’s money, it’s their money. And they spend it accordingly.
+In the last few years we’ve distributed over $1,000,000 to the team in profit sharing. All while spending aggressively on growth. That’s a number I’m really proud of!
+分享利润
+两个要素使得 convertkit 成为一个经济高效的公司
+透明的财务。花费的每一分钱都通过公开记录对整个公司可见。
+分享利润。我们与整个团队分享超过 50% 利润。
+结果使得每个人都高效地花钱。
+有次我们问团队，你们想去 San Diego 还是 Costa Rica 进行下一次团建？
+每个人都选 Costa Rica。
+我们调查发现 Costa Rica 因为住宿费用和额外路途费用高，导致会多支出 50% 的钱。带着这样的调查结果我们又问了一遍团队。
+这次 San Diego 胜出。
+在花费公司钱时，每个人都有这样的态度。这不仅是公司的钱，这是也是员工们的钱。他们会按需消费。
+过去几年里我们给团队分红超过 1000000 美元。随着公司业务增长，花销也增加了。这是一个我很引以为傲的数字。
+11. ALWAYS PAY YOUR DEBTS
+No, I’m not talking about Game of Thrones, or even financial debt. There’s another kind of debt more devastating to software companies: technical debt.
+The code that worked fine at $15,000 in revenue looks like a joke at $15 million. Not to say you should have spent the time to build it perfectly from the beginning—that’s a fools game to try—but instead that every shortcut you take is building more debt. The longer you wait the more interest accrues.
+We’ve had to spend a significant amount of time and money refactoring all of that old code. It’s part of scaling. Every software company has to do it, but it would be so frustrating if we didn’t expect it and have a plan to pay it back systematically.
+12. AS YOU GROW, YOUR COMPANY’S NAME BUILDS EQUITY. DON’T TAKE THAT FOR GRANTED.
+For years I’ve wanted to build ConvertKit into a global brand and I thought that meant changing the name to something more brandable. While being focused on this new change I completely missed the trust, care, and love our customers had for the name ConvertKit.
+You just quietly enjoy the status quo. People only talk about what they want to change. It would be weird to send an email to Patagonia saying, “I really love your name, please don’t change it.”
+So when we would receive emails every month from creators who thought ConvertKit was too salesy and they didn’t want to be associated with the brand, that wasn’t balanced by all the people who had quietly grown to love our name and the brand it represented.
+Ultimately we decided to stay as ConvertKit, which is a long story that I promise I’ll write in full at some point.
+
+
+创业 | 十五个价值一千五百万美元的创业经验（4/5)
+
+10. 分享利润
+
+两个要素使得 ConvertKit 成为一个经济高效的公司：
+
+- 透明的财务。花费的每一分钱都通过公开记录对整个公司可见。
+
+- 分享利润。我们与整个团队分享超过 50% 利润。
+
+每个人都学会了有效地花钱。
+
+有次我们问团队，你们想去 San Diego 还是 Costa Rica 进行下一次团建？
+
+刚开始每个人都选 Costa Rica。
+
+我们调查后发现去 Costa Rica 团建会因为住宿费用和额外路途费用更高，而导致多支出 50% 的钱。带着这样的调查结果我们又问了一遍团队。
+
+这次 San Diego 压倒性地胜出。
+
+在花公司钱时，每个人都是这种态度。因为那不仅是公司的钱，也是员工们的钱。他们会按自己的需要消费。
+
+过去几年里，我们给团队分红超过 1000000 美元。随着公司业务增长，分红也增加了。这是一个让人很引以为傲的数字。
+
+11. 有债必偿
+
+我要讨论的不是权力的游戏或者债务，对软件公司来说还有一种毁灭性的东西：技术债。
+
+能支撑收入 $15000 时的技术在收入达到 $1500 万时就是一个笑话。
+
+我不是要让你从一开始就追求完美，这种要求是愚蠢的，但每次引入一个小缺陷都让增加了技术债。
+
+越晚解决技术债务，最后需要偿付的越多。
+我们最终花费相当多时间和金钱重构全部旧代码。这是业务扩张的结果，每个公会遇到这种件事。但如果不早点预料到这一结果，为此做好计划，那么还技术债的过程会相当痛苦。
+
+12. 随着公司扩张，公司品牌价值也变大。不要太在意这些
+
+我前几年想将 ConvertKit 建设成全球知名品牌，这意味着要考虑换个名字。我过于沉迷思考这个事情而忘了客户对 ConvertKit 这个名字的信任，关心和爱。
+
+有时候你只是太专注思考换品牌的事。人们只会讨论他们想改变的事。给 Patagonia 写信说 “我很喜欢你的名字，不要换名字” 会很奇怪。
+
+当我们收到一些客户邮件说 ConvertKit 这个名太过于营销，不想和它扯上关系时，我们知道还有很多喜爱这个名字的客户。
+
+最终我们保持 ConvertKit 这个名字，我会找时间再聊聊这个事。
+
+
+
+
+13. 你不必成为一个混蛋才能创办一家成功公司
+
+一些企业家用成为一个混蛋的模式创办一家大公司。他们经常大声谈论自己的成功，所以我们听到的比我们应该听到的多很多。 但是也有一群优秀的人在创建令人兴奋的公司，他们是关心自己团队、家庭和顾客的好人。
+
+忽视那些混蛋企业家的媒体吧。
+
+不要做一个混蛋，不要满足于为一个混蛋工作。
+
+14. 低调发布产品
+
+一个隆重的发布会对你来说很有趣... 但它马上就不会有趣了。
+
+
+我喜欢我的史蒂夫 · 乔布斯时刻，在观众的掌声中发布一个新功能。 在过去的两年里，我在我们的 Craft + Commerce 上干过这种事。 但是在这些时刻背后，是我们团队为了赶上最后期限，付出几个星期或者几个月的努力。 修整项目范围，重新排列积压工作的优先级，并希望在现场演示中一切顺利。
+
+
+但这只是其中的一部分。 如果你错过了任何一个设计、计划或时间表上的标记，那么在向客户发布产品是就会非常痛苦的。 这意味着会有大量工单寻求支持、大量沮丧的用户，你会对产品失去信心。
+
+
+现在我们已经不再高调发布产品。 相反，我们与小规模的客户群合作，以了解新产品或变化将如何影响他们。 然后我们利用这些信息来建立一个效果更好的发布和推广计划。一个让我们有条不紊地推出一小部分功能的计划。
+
+我们仍然能够引起轰动，但是我们能够以更多的信心和更少的压力做到这一点。
+
+15. 作出艰难决定时我最有成功的感觉
+
+几周前，我的朋友安东尼在滑雪时问大家: “你觉得成功吗?” 。乘坐升降吊索时，这是一个值得思考的问题。 我一直在努力学习更多东西，让公司发展壮大，所以停下来感受成功是很陌生的体验。 当我知道我可以做得更好的时候，体验成功的感觉就像是让我止步不前。
+
+
+总的来说，我确实觉得自己很成功，但是我惊讶地发现，我觉得最成功的时刻并不是在达到一个重要的收入里程碑或者得到一个知名客户之后。
+
+
+事后看来，我觉得最成功的时候是我依靠自己的原则做出正确决定的时候，尽管这一过程非常困难。
+
+
+放走一位高级管理者，纠结于是否改变为之工作了两年的公司名字，重组公司。
+
+
+我作出每一个上述决定都尤其艰难。 最后努力鼓起勇气做出我认为是正确的决定。 但有了原则的指引，我可以自信地做出决定。
+
+对于我来说，成功意味着我可以有勇气去做正确但又可能是痛苦和昂贵的选择。
+
+https://m.signalvnoise.com/how-to-build-social-connection-in-a-remote-team/
+
+https://www.thrillist.com/entertainment/nation/top-youtube-channels-most-popular-youtubers
+https://www.ranker.com/
+
+How to build social connection in a remote team
+
+七个秘诀帮你打造远程团队
+
+作者 / Claire Lew
+译者 / bebopx
+
+打造虚拟团队很难。这里是七个打造远程团队的建议。
+
+一个众所周知的事实
+
+
+
+
+kayis
+
+
+
+
+https://dev.to/kayis/4-steps-i-took-to-remote-working-3ia
+
+远程 | 4 步走进远程工作
+
+作者 / kayis
+译者 / bebopx
+
+如果你在一个开放式办公室或小隔间里工作了几年，或者在大城市里买房了，你可能会梦想在家工作，或者至少不在办公室工作。
+
+
+我曾经有这样的梦想，后来它成为了现实。
+
+
+我认为个人经历是独特的，所以我的经验可能适用于你的情况，也可能不适用于你的情况。 另外，有时问题不在于工作地点，而在于与你共事的人，所以远程工作也可能无法解决你的问题。
+
+
+除此之外，我将告诉你我是如何成为一名远程工作者的。
+
+
+1. 辞职
+
+你可能会希望让你的老板允许你在家工作。但通常情况下，如果你提出这样的要求，那些不提倡远程办公的公司不会认为这是一个好兆头。
+
+
+许多公司管理不善，要求开发人员随叫随到或至少随时能找到。所以当你想进行远程操作时，他们只会给你几天时间，甚至会一直给你打电话。
+
+
+正如我所说，需要迅速得到支持主要是管理不善导致的。 所以，如果你认为搬出去会带给你更多的平静，事实并非如你所愿。
+
+
+在度过了一段艰难的时间后，我离开了，休了一年的假。 这并不适合每个人，而且相当昂贵，但它给了我内心的平静，我可以更多地思考我真正想从生活和工作中得到什么。
+
+
+2. 去初创公司
+
+通常小公司由于许多原因对远程工作者更加开放。 他们可能还没有产品，所以你可以是第一个开发人员，甚至是唯一开发人员。
+
+
+他们也没有很多钱，所以他们不得不用其他东西留住你。
+
+
+这使得我在休假后很快就进入了一个全职的远程工作岗位，但是公司却大量地让我做很多支持工作。就像我说的那样，管理层必须非常优秀，能在没有任何人 24 / 7 的情况下完成远程工作。
+
+
+3. 开始自由职业
+
+对于我们开发人员来说，这似乎是最简单的一步，也是相当可行的一步。 这也可能是第一步，但不是我的，因为我害怕自己创业。
+
+
+许多客户甚至没有办公空间给你。他们会认为你在自己的办公室工作比较正常。 他们中的大多数人并不关心你在哪里工作或者如何工作，他们只是让你帮他们把事情做完。
+
+
+4. 质疑自己的动机
+
+我已经在远程工作了 3 年，做了那么多不同的事情之后，我开始质疑自己的动机。
+
+
+对一些人来说，问题不在于我在哪里，而在于他们如何看待我。 即使我在几百公里之外，他们也一直给我打电话，不让我安静地工作。
+
+
+我知道我喜欢远程工作，但这并不是全部。 我还认识到，我在乎的是那些认为我的时间是有价值的人，我不是那些他们随时可以施加压力的人。 我认识到我重视结构和灵活性，以问题为导向的思维，而不喜欢在一个总是指责别人的公司里工作。
+
+
+总结
+
+远程办公可能会给你更多的自由和平静，但如果办公室不是你生活中唯一的问题，远程办公也不能给你带来快乐。
+
+
+你必须考虑和你一起工作的人，帮助培养沟通和以问题为导向的思维。
+
+
+如果每个人都是为了自己，你远程工作也不会开心的。
+
+https://bebopx.com/posts/2019-10-24_4-steps-to-remote-working/
+
+https://typlog.com/
+https://acoder2013.typlog.io/
+
+http://microsculpture.net/
+https://dev.to/search?q=remote
+https://www.sciencemag.org/careers/2018/02/celebrating-women-science
+https://medium.com/@tylerpachal/tracking-down-an-ets-related-memory-leak-a115a4499a2f
+https://dev.to/darthostrich/vim-for-people-who-use-visual-studio-code-full-article-1j1c
+https://github.com/gopherjs/vecty#readme
+https://github.com/tinygo-org/tinygo
+https://www.csdn.net/article/2012-07-05/2807113-less-is-exponentially-more
+https://submariner.io/
+https://dcos.io/
+https://d2iq.com/
+https://github.com/dcos/dcos
+https://github.com/instagrambot/instabot
+https://kenji.ai/
+https://forge.medium.com/how-to-think-without-the-internet-again-308da944139d
+https://dev.to/sublimemarch/an-organizers-guide-to-pronoun-buttons-afb
+https://dev.to/guillaumelarch/which-pages-on-my-site-are-indexed-by-google-2dc2
+
+https://play.typedetail.com/
+https://nomoregoogle.com/
+https://github.com/nerdeveloper/hackathon-starter-kit
+
+https://www.youtube.com/watch?v=TD_hAqaUudo 韩国小姐姐教数学
+
+视频 星空 美女 萌宠 快手
+  http://microsculpture.net/ film
+
+
+
+
+
+
+
+https://twitter.com/bobosensei0123 xxx
+https://twitter.com/hah33223 美女图
+https://twitter.com/zuaisuyan/status/1177447280124678145 色气
+
+
+给大家看的市场营销入门指南
+
+文 / Garrett
+译 / Bebopx
+
+大家好，我叫加勒特，我有十多年的网络营销经验。 主要是搜索引擎优化、内容和电子邮件。
+
+
+我会在接下来的文章中更深入地探讨这些话题。但是现在我想告诉你们，我已经厌倦了市场营销。
+
+
+我决定换个职业，学习开发。
+
+
+但在我离开老本行之前，想和大家分享我十年来积累的营销知识。
+
+
+我确信当我学习开发时，许多人会伸出手来帮助我学习。 我也想为你们做同样的事。
+
+
+所以我现在想问: 关于市场营销你们需要知道什么？你们对什么感到好奇？
+
+
+如果你对市场营销完全没有概念？ 也可以告诉我，你的目标是什么？ 我可以告诉你该怎么实现它。
+
+你问的问题越多，或者你给我的关于你想要完成什么目标的信息越多，我就越能帮助你。
+
+不要担心时间。 只要能对你们有帮助的话，我愿意再给花十年时间来回答你的问题。
+
+生活 | 写给 20 岁朋友的一些建议
+
+整理 / Bebopx
+封面 / Brooke Cagle
+
+Photo by Anthony Ginsbrook
+
+- 没有公司会以你希望的方式奖励你的忠心。你是可以被替代的，每个人都是可以被替代的。公司是一个机器，你只是机器上的齿轮。你当然​要努力工作，但不要为机器服务。你工作是为了提升自己的事业。
+
+- 多读书，保持谦虚，保持开放的思维，多出去看看。
+
+- 别吃太多糖了。坚持健身，到 30 岁时你会感谢自己的。
+
+- 做一些自己害怕的事，你可能永远不知道结局如何。无视反对的声音，因为它们对你毫无帮助。
+
+- 学习经济! ! 学习如何投资! ！不要去追逐别人，不要去追逐那些看起来像理想伴侣的人，你会意识到十多年后没有他们你会更好。
+
+- 努力结交朋友，努力做自己喜欢的事情。 你可以在你还没有老到觉得约会很奇怪的时候就尝试约会（趁早约会）。
+
+- 少花点时间玩电子游戏，早点学习技能——让你成为一个更加全面的人，而且当你长大了，你会得到回报的！
+
+- 不要急于把自己和其他 20 多岁的成功故事相比较，按照自己的节奏学习，为自己和你爱的人留出时间。
+
+- 不要太在乎别人怎么想，做你自己，你会找到支持你的人。
+
+
+1. You are allowed to change your mind.
+A lot of people look at changing your mind as some kind a character flaw. But changing your mind is a necessity as you gain new information. Don’t just stick with things because you think you can’t — or aren’t supposed to — change your mind.
+This is something that successful people do all of the time that keeps them successful. Don't be afraid to tweak things or change direction as you gain more wisdom.
+2. It pays to speak positively to yourself.
+Many people develop some sort of negative feedback loop as they enter adulthood. Sometimes, I think the negativity slips in just because we’re afraid to think too highly of ourselves.
+It almost seems more “grown up” to be hard on oneself, and then childish to take pride in who we are. But negative self-talk doesn’t help anyone.
+Practice repeating empowering mantras to yourself instead. You might feel silly about it at first, but this habit will help shift your mindset into a happier and more positive one.
+3. A daily ritual can be grounding.
+It doesn’t need to be complicated by any means, but having one small daily ritual can help add a bit of much-needed calm to any hectic day.
+Try changing clothes after you get home from work. Take an evening walk after dinner. Some of the best rituals allow us to run on autopilot for a moment to give us space to decompress from the demands of the day.
+4. You need to explore your feelings.
+As a mom, I am very much aware of how powerful and overwhelming big feelings can be for little ones. My daughter recently turned five, but she isn’t the only one with feelings that can feel too big.
+As adults, it’s important for us to recognize that our own feelings also matter. Being mature isn’t about shutting down our feelings, but healthily exploring them instead. It’s good to ask ourselves what we’re feeling and why, and it’s especially helpful to do so before our feelings get so big.
+5. Being yourself is a valid goal.
+No matter who you are, there will always be critics, haters, and trolls. High-level adulting and self-care doesn't mean those people never get to you. You're only human.
+But you can’t allow other people to determine who you ought to be. Your job in this world is to be uniquely you. So give yourself some damn permission and freedom to actually be yourself. Quit worrying about what others are doing and instead focus on whatever is right for you to do.
+6. You need a purpose that matters to you.
+Psychologist and concentration camp survivor Viktor Frankl found a purpose in surviving the holocaust that went far beyond himself. His horrible experience became a learning opportunity, and he wrote often about an individual's need for purpose in their daily life.
+Even if you’re clueless about your own life’s purpose, you can find a great deal of meaning in simply working toward a goal that matters to you. Committing ourselves to any positive goal that adds meaning to our lives is an effective way to see past our troubles, whatever they may be.
+7. You can always do something for somebody else.
+There is a lot to be said for making a difference and doing good for others even when there’s nothing in it for ourselves. We don't often think of such things as self-care, but I don't believe we can truly be well if we don't also serve others in need.
+Whether you give resources of time or money is up to you, but choosing to be a good neighbor and helpful community member has a way of making us see the world in a whole new light. And you don’t have to run yourself ragged in the process.
+You only need to start small — though you might be surprised by how much doing good for somebody else can change your life as well.
+
+生活 | 记住这 7 件事，好好关爱自己
+
+文 / Shannon Ashley
+译 / Bebopx 
+封面 / Larm Rmah
+
+1. 你可以改变主意。
+
+很多人认为改变主意是一种缺陷。 但是当你获得新的信息时，很有必要及时改变你的想法。 不要仅仅因为你认为你不能或者不应该改变你的想法而坚持自己原来的立场。
+
+这是成功者一直在做的事情，这样他们才能保持成功。 当你获得更多的知识时，不要害怕调整自己节奏或改变方向。
+
+2. 积极地对自己说话是有好处的。
+
+许多人在进入成年期时会产生某种负面反馈循环。 有时候，我认为消极情绪会溜进来，只是因为我们害怕自我评价过高。
+
+对自己严格要求似乎更像是 “成年人” 的做法，对自己的身份感到骄傲则显得幼稚。 但是消极的自我暗示对任何人都没有帮助。
+
+练习重复给自己力量的咒语。 一开始你可能会觉得自己很傻，但是这个习惯会帮助你拥有一个更快乐更积极的心态。
+
+3. 周期性的小习惯可能会成为你的加油站。
+
+你不需要通过任何方式让生活变得复杂，一个小小的日常习惯可以帮助任何繁忙的一天增加一点急需的平静。
+
+例如，试着下班回家后换衣服，晚饭后散步。 一些最好的习惯可以让我们放空大脑一会儿，给我们空间从一天的忙碌中解脱出来。
+
+4. 你需要正视自己的感受。
+
+作为成年人，重要的是我们要认识到我们自己的感受也很重要。 成熟不是要关闭我们的感觉，而是要健康地正视它们。 问问自己的感受和原因很好的，尤其需要在我们的感受变得如此强烈之前这样做。
+
+5. “做自己” 是一个有效的目标。
+
+不管你是谁，总会有人批评，反对你。 高度的成熟和自我关怀并不意味着那些人永远不会接近你。 你只是个凡人。
+
+但是你不能让别人来决定你应该成为什么样的人。 你在这个世界上的工作就是成为独一无二的你。 所以，给自己一些空间和自由，做真正的自己。 不要再担心别人在做什么，而是把注意力放在你该做的事情上。
+
+6. 你需要一个对你重要的目标。
+
+即使你对自己的人生目标一无所知，你也可以在朝着一个对你很重要的目标努力的过程中发现很多意义。 致力于任何能给我们的生活增添意义的积极目标都是一种看待过去困难的有效方式，不管它们是什么。
+
+7. 你总是可以为别人做点什么。
+
+即使对我们自己没有任何好处，我们仍然可以说，做出改变，为他人做好事。 我们通常不会想到关爱自己这样的事情，但是我相信如果我们不能为有需要的人服务，我们就不能真正的好起来。
+
+是否给予时间或金钱取决于你自己，但选择成为一个好同事和好成员是一种让我们看到全新世界的方式。 你不必在这个过程中把自己弄得精疲力尽。
+
+你只需要从小事做起 - 你会惊讶地发现，为别人做了那么多好事也能改变你的生活。
+
+
+
+
+https://medium.com/@pankaj.panigrahi/list-of-node-js-articles-ededa6dd304b
+
+https://medium.com/@lukeaf/nuanced-ui-development-in-flutter-3415983bb62c
+
+https://forge.medium.com/linkedin-can-actually-be-helpful-if-you-use-it-right-e1a088cf932e
+https://blog.lelonek.me/how-to-choose-a-programming-language-7805da7ec588
+
+https://blog.yipl.com.np/animation-in-flutter-daily-cooking-quest-animation-part-1-9255e14ce134
+
+https://medium.com/rekkiapp
+https://medium.com/rekkiapp/creating-a-brand-to-serve-1b7fc84c55fa
+https://medium.com/rekkiapp/sharing-base-functionality-in-elixir-8d28e9d0619
+
+https://medium.com/@pamit/building-a-restful-backend-with-elixir-phoenix-84fe390975c
+
+https://thecollegeinvestor.com/23078/best-side-hustles/
+
+https://forge.medium.com/
+
+https://thecollegeinvestor.com/
+
+水流拥抱的
+光茫四射
+在门外黑夜的嘴唇
+岁月的尘埃无边
+红色的云缠在头上
+
+
+国外垃圾站
+  微信 / 知乎 -> 内容翻译
+
+  https://www.poemlife.com/index.php
+  https://www.shigeku.org/ 中国诗歌库 随机组合
+  https://posts.careerengine.us/
+
+https://forge.medium.com/how-to-think-without-the-internet-again-308da944139d
+
+https://marker.medium.com/i-went-from-daydreamer-to-entrepreneur-in-one-psychedelic-trip-56b72e7c07d1
+
+https://www.wocali.com/ 文库
+https://u3c3.com/
+
+http://www.guandianzhiku.com/v/s/?url=https://www.iqiyi.com/v_19rrcuke28.html
+
+https://www.veryins.com/
+
+http://t66y.com/htm_data/1910/7/3684565.html 
+
+https://zhuanlan.zhihu.com/p/63606479
+
+
+
+
+
+
+Zak Miller
+
+5 Mistakes to Avoid When Building Your First Product
+
+产品 | 开发第一款产品时，你需要避免的五个错误
+
+错误一: 解决一个没有人遇到的(或者没有人愿意为之付费)的问题
+
+保罗·格雷厄姆曾写道，凭空想出的创业方向是非常糟糕。 你绞尽脑汁制造了一堆貌似合理的想法(表面上看起来都类似于你所熟悉的产品) ，而这些想法注定会失败。 套用马克 · 吐温的话说，一个貌似合理的想法和一个好想法的区别就是黄沙和黄金的区别。
+
+错误二: 不要因为别人已经做了，就放弃一个想法
+
+脸书不是第一个社交网络，谷歌不是第一个搜索引擎，iPhone 也不是第一个智能手机。 更重要的是，许多市场并不是垄断的，可以容纳多种产品存货。 实际上，假如有人创造了类似的东西，那就说明你正在想的是一件有前途的事情。 他们证明了这是一个经济上可行的想法，你可以从他们的成功和失败中学习。 反而是选择建立以前从未有人成功过的项目的风险要大得多。
+
+错误三: 没有市场营销计划
+
+如果你建了它，他们就不会来了。 继续吧，用接下来的六个月时间建造一些东西，然后把它们放到网上。 除非你做点什么，否则没人会知道它的存在。 一个产品创意要想成为一个好主意，就必须有一个经济上可行的方法来获得新客户。 也许是通过博客文章(内容营销)的入站流量，也许是谷歌广告，或者也许是出站电话。 无论如何，没有一个可行的渠道，你就没有一个产品的想法-你有一个有趣的项目。 查看 Traction 来了解更多。
+
+错误四: 制定过高目标
+
+毫无疑问，越大的市场带越多利润。 因此，市场规模很大的领域竞争很激烈，需要更多市场预算，可行的商业想法相对较少(因为你很难做出每个人都想要的东西)。 建造一个适合几千人的东西要容易得多。 更棒的是，一旦你有一个目标市场，你就很容易找到让客户满意的点子。
+
+错误五: 产品不够好
+
+每个人很忙，他们不会关心你的小成果。因此你的作品需要提供给他们超出想象的体验，才会让他们记得你。
+
+
+Mistake #1 - Solving a problem that no one has (or that no one is willing to pay for)
+Paul Graham wrote about how trying to come up with a startup idea is a pretty bad way to come up with a good idea. You generate a bunch of plausible-sounding ideas (that superficially resemble products you’re familiar with) that are doomed to fail. To paraphrase Mark Twain, the difference between a plausible-sounding idea and a good idea is the difference between the lightning bug and the lightning.
+
+Mistake #2 - Writing off an idea because someone else has already done it
+Facebook wasn’t the first social network, Google wasn’t the first search engine, and the iPhone wasn’t the first smartphone. More importantly, many markets are not monopolies and can easily support multiple products. The fact that someone built something similar to what you’re thinking about is a good thing. They proved it’s an economically viable idea, and you can learn from their successes and failures. The alternative (building something no one has made into a successful business before) is much riskier.
+
+Mistake #3 - Not having a marketing plan
+If you build it, they won’t come. Go ahead, spend the next six months building something and put it out on the internet. No one will know it’s there unless you do something about it. For a product idea to be a good idea there has to be an economically viable way to gain new customers. Maybe that’s inbound traffic through blog posts (content marketing), maybe that’s Google Ads, or maybe that’s outbound cold calls. Regardless, without a viable channel, you don’t have a product idea - you have a fun project. Check out Traction to learn more.
+
+Mistake #4 - Not setting your sights low enough
+With large markets comes lots of money. Thus, lots of competition, a large (required) marketing budget, and a relatively small number of viable business ideas (it’s hard to make something that everyone wants). It’s much easier to build something that’s perfect for a few thousand people. Better yet, once you have a target niche in mind it’s much easier to find ideas that will delight your customers.
+
+Mistake #5 - Not being remarkable
+People are busy and won’t care about your little app. Cut through the noise and give them an experience they’ll remark about. Seth Godin has written about this.
+
+Conclusion
+A good way to find out if your product has legs is to build an MVP as quickly as possible and try to sell it (this is the premise of The Lean Startup, which you should read). The longer you put that off, the more likely you are to be wasting your time. Even better, know that people will pay for it before you start to build it (get them to fund the development!).
+
+https://dev.to/zakmiller/5-mistakes-to-avoid-when-building-your-first-product-4k0h
+
+
+
+
+https://www.hongkiat.com/blog/finding-passion/
+
+‘Passion’ is a word so excessively used and almost always blindingly paired with work, that if you actually ask around you may find that not everyone really gets what Passion is. At the root of it all, it points to that strong emotion you have inside of you, for someone, or some thing. And anyone who has ever succeeded in making a name for themselves would probably state their passion for the work / craft / industry as a reason for their success, but do you know yours?
+
+I asked around, compiled some questions, got some answers, had a few headaches trying to decipher why everyone is telling me different things about what passion is to them. For example, some equate a passion (for something) to a hobby or a dream, but just because you love to sing (in the shower), that doesn’t necessarily mean that your passion is the act of singing.
+
+Here are 10 things you should know about passion, which can perhaps help you find what your real passion is.
+
+
+1. It’s not A Hobby or A Dream
+There should be a purposeful word choice in what you use in a sentence. With this logic in mind, ‘Passion’ is as far from a ‘hobby’ as a ‘hobby’ is to a ‘dream’. One special ingredient separates passion from the two. In the 2004 movie, National Treasure, treasure hunter Benjamin Gates asks his sidekick, Riley, this simple question: "We don’t need someone crazy. But one step short of crazy, what do you get?"
+
+His sidekick says "Obsessed" but he corrects him with "Passionate."
+
+When you do what you love to do at a moderate level, you can call it a hobby. It could be cooking, gardening, singing in the shower, disassembling gadgets, playing with action figures; the mix. But when you go all out with it, to the point that someone deems you a step short from crazy, that’s passion for you.
+
+2. Being Happy With Your Passion
+And you do it for a few reasons, one of which is because of how it makes you feel. Passion is engrained in your body and soul. For me, when you are really happy doing something, there’s a hint of what you are passionate about right there.
+
+From that, add a level of obsession to it, a lot of man-hours, a devotion second only to a dog’s love for its master, and that’s just about as close as you can get to pinpointing what your passion is.
+
+One of the reasons defining passion is so different from one man to another, is because sometimes it is hard to pin down what your real passion is.
+
+3. You might not see it
+It’s not true that passion has to be something that you can feel (as in touch, in physical form). Sometimes it is an effect of what you do. Believe it or not, some people really like to help other people, and that is really important in some professions e.g. a nurse in a child’s hospital, a social welfare worker, a flight attendent, a special needs teacher etc.
+
+That effect not only pushes them to get out of bed and face all kinds of things that would cause you and me to break down on a daily basis (see #4) but they also do it because their passion is to make a difference in someone’s life.
+
+4. Rough It Out
+To be passionate about something is to weather the storm no matter how hard it is. If practising for hours on the guitar makes the skin of your fingers break, or dancing the ballet to the tune of the nutcracker gives you ugly toes, passion says ‘so be it’.
+
+
+
+You cease to care because at the end of the day you just want to be known as the person who can play Stairway to Heaven in your sleep or still dance even without all your limbs attached (go ahead, click it. It’s beautiful).
+
+5. Childhood Crush
+A probable source for what we are passionate about may come from what we were exposed to during our childhood. Many simple things such as sketching, music, collecting action figures or airplane models that we did when we were young evolve to become what we are passionate about when we are adults.
+
+Have you seen what they can do with LEGO bricks? With just pen and paper? With wooden blocks? With trash and light? They may have the talent to do those things but passion is what brings those things from thought to reality, even when they are well into adulthood. For them, growing up doesn’t mean the same thing as letting go of what you love doing.
+
+
+https://www.hongkiat.com/blog/finding-passion/
+
+生活 | 找回激情的 10 种秘诀
+
+人们常常谈论“激情”，而且几乎总是与工作联系在一起。如果你问问周围的人，你会发现并不是每个人都真正理解激情是什么。 从本质上来讲，激情是你内心针对某个人或某件事的强烈情感。 每个名人都能说出自己对工作，行业等的激情是他们成名的原因之一，那么你知道自己的激情在哪里吗？
+
+我四处打听，收集了一些问题，得到了一些答案，还有一些头疼的问题，试图解释为什么每个人都告诉我不同的事情，关于激情对他们来说是什么。 例如，有些人把激情(某事)等同于爱好或梦想，但仅仅因为你喜欢唱歌(淋浴时) ，并不一定意味着你的激情就是唱歌。
+
+这里有10件关于激情你应该知道的事情，它们可能会帮助你找到你真正的激情所在。
+
+1. 这不是爱好或梦想
+
+你在句子中使用的词语应该是有目的的。 有了这个逻辑，“激情”就像“爱好”与“梦想”的区别一样远离“爱好”。 有一个特殊的因素将激情和激情区分开来。 在2004年的电影《国家宝藏》中，寻宝者本杰明 · 盖茨问他的搭档莱利一个简单的问题: “我们不需要一个疯子。 但是离疯狂只有一步之遥，你能得到什么呢? ”
+
+
+他的搭档说“痴迷” ，但他纠正他说“激情”
+
+
+当你做你喜欢做的事情处于中等水平时，你可以称之为爱好。 可以是烹饪、园艺、淋浴时唱歌、拆装小玩意、玩动作人偶等等。 但是当你全力以赴去做的时候，当有人认为你离疯狂还差一步的时候，那就是你的激情。
+
+2. 为你的激情感到快乐
+
+你这样做有几个原因，其中之一是因为它让你感觉如何。 激情在你的身体和灵魂中根深蒂固。 对我来说，当你真正开心地做某件事时，就会有一丝你热爱的东西在那里。
+
+
+由此，再加上一定程度的痴迷，大量的人工时间，仅次于狗对主人的爱的奉献，这就是你所能找到的最接近的热情所在。
+
+
+定义激情的其中一个原因是不同的男人之间有很大的差异，因为有时候很难确定你真正的激情是什么。
+
+3. 你可能看不到
+
+激情不一定是你能感觉到的东西(比如在接触中，在物理形式上) ，这是不对的。 有时这是你所做的事情的结果。 信不信由你，有些人真的很喜欢帮助别人，这在某些职业中是很重要的，例如儿童医院的护士，社会福利工作者，飞行服务员，特殊需要教师等等。
+
+
+这种效应不仅促使他们起床，面对各种可能导致我们每天精神崩溃的事情(见第四条) ，他们这样做也是因为他们的热情是改变别人的生活。
+
+4. 粗糙的生活
+
+对某事充满激情就是经受住风暴，不管它有多么困难。 如果在吉他上练习几个小时会让你的手指皮肤破裂，或者随着胡桃夹子的旋律跳芭蕾会让你长出丑陋的脚趾，激情告诉你‘就这样吧'。
+
+你不再关心，因为在一天结束的时候，你只是想让别人知道你是一个可以在睡梦中弹奏通往天堂的阶梯或者即使没有四肢也能跳舞的人。 它很漂亮)。
+
+5. 童年的迷恋
+
+我们热爱的东西可能来源于我们在童年时期接触到的东西。 许多简单的事情，如草图，音乐，收集动作人偶或飞机模型，我们年轻的时候做的，进化成为我们成年后热爱的事情。
+
+你见过他们用乐高积木做什么吗？ 只用纸和笔？ 用木块？ 用垃圾和灯光？ 他们可能有做这些事情的天赋，但是激情是把这些事情从思想带到现实的东西，即使他们已经长大成人。 对他们来说，成长并不意味着放弃你喜欢做的事情。
+
+https://stxnext.com/blog/2019/08/02/build-your-mvp-right-way-common-mistakes/
+https://medium.com/swlh/5-crucial-mistakes-to-avoid-when-starting-an-online-business-d3b9be020bd9
+https://dev.to/tfkamran/top-5-startup-mistakes-125b
+https://www.inc.com/heather-r-morgan/5-mistakes-first-time-founders-make-when-starting-new-companies.html
+
+
+
+
+
+https://www.youtube.com/watch?v=RDQGPs7StNA
+
+长滨宁琉
+渡边梨加
+与田祐希
+小坂菜绪
+平手友梨奈
+斋藤飞鸟
+加藤史帆
+太田梦莉
+堀未央奈
+铃木绚音
+菅井友香
+
+櫻井日奈子
+伊藤沙莉
+川榮李奈
+山本舞香
+清原果耶
+中條彩未
+橋本環奈
+濱邊美波
+今田美櫻
+新木優子
+https://zhuanlan.zhihu.com/p/72935791
+
+独立开发者咨询
+https://github.com/josephchang10/awesome-indie
+https://github.com/coding-daily/awesome-freelancer
+
+
+
+觉得内容不错，还请点个「关注」「在看」支持，谢谢各位
+
+
+BebopX 星际日志
+
+https://www.youtube.com/watch?v=vW-tNyBzFfA
+
+https://www.forbes.com/quotes/theme/today/
+
+https://medium.com/swlh/21-of-the-worlds-most-powerful-quotes-updated-for-today-and-tomorrow-6b7634358c2
+
+1. “You must be the change you wish to see in the world.” — Gandhi
+“Live for what’s worth dying for, and leverage technology to create the world you wish to see.”
+2. “Everybody is a genius. But if you judge a fish by its ability to climb a tree, it will live its whole life believing that it is stupid.” — Albert Einstein
+“ Tapping into genius is simple in theory yet hard in practice. It comes from mastering the one activity you love most .”
+3. “A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.” — George Bernhard Shaw
+“Experiments are necessary for the experiences that create growth and new opportunities.”
+If you’d like me to help you manage your experiments as your consultant and coach, hop on my calendar for a strategy meeting.
+4. “He who fears he will suffer, already suffers because he fears.” — Michel De Montaigne
+“FOMO creates suffering, yet those who suffer, have FOMO.”
+5. “We think sometimes that poverty is only being hungry, naked and homeless. The poverty of being unwanted, unloved and uncared for is the greatest poverty.” — Mother Theresa
+“Love is necessary for a healthy life. We think to live a healthy life, just like food and water. I practice daily by loving everyone around me.”
+6. “Love is a verb. Love — the feeling — is a fruit of love, the verb.” — Stephen Covey
+“Love has been mistaken for possession and attachment. Become loving, so you can love all.”
+7. “Life is really simple, but we insist on making it complicated.” — Confucius
+“Life is really simple, but social media has made it complicated.”
+8. “If you don’t like something, change it. If you can’t change it, change the way you think about it.” — Mary Engelbreit
+“How you think determines how you handle stress, and thus how healthy you are. So it’s really all that matters.”
+9. “In seeking happiness for others, you will find it in yourself.” — Unknown
+“Don’t search for what you’re passionate about, serve others to make yourself passionate.”
+If you’d like me to help you find happiness for yourself and others around you as your coach, hop on my calendar for a strategy meeting.
+10. “God, grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” — Reinhold Niebuhr
+“My spirituality and faith has taught me to embrace the things I can’t change, and turn them into opportunities. Meditation and prayer have given me the wisdom and awareness I’ll need.”
+11. “Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.” — Bill Keane
+“Remaining present every moment is the most important habit to perform my best and be happiest.”
+12. “Life is never made unbearable by circumstances, but only by lack of meaning and purpose.” — Viktor Frankl
+“Embrace obstacles to build the resilience required to live a purpose driven life.”
+13. “If you want happiness for an hour — take a nap. If you want happiness for a day — go fishing. If you want happiness for a year — inherit a fortune. If you want happiness for a life time — help someone else.” — Chinese proverb
+“Happiness isn’t something that’s achieved, it’s a skill that’s cultivated and practiced daily. It’s mastery comes from serving others.”
+14. “When one door of happiness closes, another opens, but often we look so long at the closed door that we do not see the one that has been opened for us.” — Helen Keller
+“I now understand that focusing on the past or future mindlessly is a waste of time. All that matters is how well I’m able to experience what I’m doing now.”
+15. “Most people do not listen with the intent to understand; they listen with the intent to reply.” — Stephen Covey
+“Reaction is ego, so I try not to do it. Responding mindfully is the only way to communicate.”
+If you’d like me to help you listen better, understand and communicate, hop on my calendar for a strategy call to talk about consulting as your coach.
+16. “Before you diagnose yourself with depression or low self-esteem, first make sure that you are not, in fact, just surrounded by assholes.” — Sigmund Freud”
+“Before you diagnose yourself with depression or low self-esteem, try removing social media for a month.”
+17. “Challenges are what make life interesting and overcoming them is what makes life meaningful.” — Joshua J. Marine”
+“Challenges are what get me into a state of flow, and flow makes life worth living, so I look forward to them.”
+If you’d like me to help you manage all your personal and professional challenges as your coach, hop on my calendar for a strategy meeting.
+18. “A mind that is stretched by a new experience can never go back to its old dimensions.” — Oliver Wendell Holmes
+“How deep I’m able to experience my experiences are all that matters to grow and therefore be happy.”
+19. “The only way that we can live is if we grow. The only way we can grow is if we change. The only way we can change is if we learn. The only way we can learn is if we are exposed. And the only way that we are exposed is if we throw ourselves into the open.” — C. Joybell
+“Life is more exciting when things are uncertain. Uncertainty teaches resilience, and resilience gives me the awareness I need to become my best self.”
+20. “Time is too slow for those who wait, too swift for those who fear, too long for those who grieve, too short for those who rejoice, but for those who love, time is eternity.” — Henry van Dyke
+“My wealth is not measured in how much time I have to do what I want, rather, how much meaning I’m able to derive from the time I have.”
+21. “I would rather die a meaningful death than to live a meaningless life.” — Corazon Aquino”
+“Life is generally meaningless beyond the choice we have to assign how meaningful it can be. I don’t fear death because I know this and therefore am able to live with peace of mind.”

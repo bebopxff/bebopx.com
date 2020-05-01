@@ -1,3 +1,12 @@
-baseURL = "http://example.org/"
+baseURL = "https://bebopx.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "BebopX"
+theme = "hugograyscale"
+
+googleAnalytics = "UA-147412504-1"
+
+[params]
+    # Provide some metadata for search and indexing services
+    description = "Make products people love"
+    author = "BebopX"
+    # author = "BernieLiu"

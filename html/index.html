@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Founder Calendar</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.4/croppie.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/croppie/2.6.4/croppie.min.js"></script>
+    <style>
+        html,
+        body,
+        .container {
+            height: 100%;
+        }
+
+        .container {
+            display: grid;
+            /* grid-template-columns: repeat(3, 1fr); */
+            grid-template-columns: 1fr 2fr 1fr;
+            grid-template-rows: 10% 1fr 10%;
+        }
+
+        .card {
+            grid-column: 2/3;
+            grid-row: 2/3;
+        }
+
+        .pre-area {
+            display: flex;
+            flex-direction: column;
+            grid-column: 1/2;
+            grid-row: 2/3;
+            padding: 5px;
+        }
+
+        .text-asset,
+        .image-asset {
+            padding: 5px;
+            flex-grow: 1;
+        }
+
+        #myCanvas {
+            width: 100%;
+            height: 100%;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="pre-area">
+            <div class="text-asset">
+                “You can’t connect the dots looking forward; you can only connect them looking backward. So you have to
+                trust that the
+                dots will somehow connect in your future.”
+            </div>
+            <div class="image-asset">
+                <div id="demo-basic"></div>
+                <button id="show-result">show</button>
+            </div>
+        </div>
+        <div class="card">
+            <canvas id="myCanvas"></canvas>
+        </div>
+    </div>
+    <script>
+        var basic = new Croppie(document.getElementById('demo-basic'), {
+            viewport: {
+                width: 128,
+                height: 128,
+                type: 'circle'
+            }
+        })
+        // var basic = c.croppie({
+        //     viewport: {
+        //         width: 150,
+        //         height: 200
+        //     }
+        // });
+        basic.bind({
+            url: 'demo/fish.png',
+            points: [77, 469, 280, 739]
+        });
+        document.getElementById('show-result').addEventListener('click', () => {
+            basic.result().then(canvas => {
+                var c = document.getElementById("myCanvas");
+                var ctx = c.getContext("2d");
+                var image = new Image();
+                image.onload = function () {
+                    // ctx.drawImage(image, 10, 10);
+                    // ctx.drawImage(image, 0, 0, image.width, image.height, 0, 0, c.width, c.height);
+                    ctx.drawImage(image, 0, 0, image.width, image.height);
+                    let fileName = "image"
+                    const link = document.createElement('a');
+                    link.download = fileName + '.png';
+                    console.log(canvas)
+                    c.toBlob(function (blob) {
+                        console.log(blob)
+                        link.href = URL.createObjectURL(blob);
+                        link.click();
+                    });
+                };
+                image.src = canvas
+                // console.log(canvas)
+
+                
+            })
+        })
+    </script>
+</body>
+
+</html>
