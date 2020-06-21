@@ -2,7 +2,10 @@
 title: "生活 | 写给 20 岁朋友的一些建议"
 date: 2019-11-05T16:56:00+08:00
 draft: false
+tags: ["lifestyle"]
 ---
+
+<!--more-->
 
 整理 / Bebopx 
 
