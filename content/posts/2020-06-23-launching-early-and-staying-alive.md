@@ -9,7 +9,11 @@ tags: ['product']
 
 译 / Bebopx
 
+> Weebly 是一个网站生成平台，能够帮助用户建立博客、网店。已有超过 3000 w 人使用 Weebly 建站。每月有三分之一的美国人访问 Weebly。
+
 我在 2006 年 2 月开始开发 Weebly。先和 Dan 用将近一年时间开发它。随后 Chris 加入来帮忙。在 11 月中旬我们发布一个很早期的版本。几天后我们被 TechCrunch 报道，同时被 Y Combinator 投资。（我们在 YC 面试的那天早上发现 Weebly 被 TechCrunch 报道了）。
+
+<!--more-->
 
 Weebly 从此开始成长起来，经历两次完全重新设计，添加了大量功能，一点也不像我们最初上线的那个样子。
 
